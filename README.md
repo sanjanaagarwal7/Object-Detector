@@ -1,4 +1,4 @@
-# 📦 Real-Time Object Detection with OpenCV and MobileNet SSD
+# 📦 Real-Time Object Detection
 
 This project demonstrates **real-time object detection** using OpenCV's DNN module with a pre-trained **MobileNet SSD** model trained on the COCO dataset.
 
